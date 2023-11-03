@@ -1,0 +1,22 @@
+
+.card{
+    border: 1px solid #000;
+    max-width: 350px;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+}
+.card:hover{
+box-shadow: 0 0 20px #d18383;}
+.btnMainRating{
+    display: flex;
+    justify-content: space-between;
+}
+.productImg{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
